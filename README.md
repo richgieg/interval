@@ -1,7 +1,7 @@
 # interval
 
 
-*See the 'example/example.go' for more details regarding the usage.*
+See `example/example.go` for more details regarding the usage.
 
 --
     import "github.com/richgieg/interval"
